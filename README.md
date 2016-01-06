@@ -1,3 +1,26 @@
+# rudylab-community-events
+
+We are hoping to learn how to setup a community based event website using the Drywall social module as well as adding new functionality by adding an event system.
+
+
+##### Project Description & Features:
+
+* MongoLab Remote MongoDB Setup
+* Drywall User Management Module
+* Bcrypt Encryption
+* Flash Messages
+* Grunt Task Runner
+* Jade Templates
+
+##### Sections:
+
+* MongoLab & Drywall Setup
+* Event Schema & Frontend Display
+* Details Page & Adding Events
+* Edit & Delete Events
+
+##############################################################################
+
 # Drywall
 
 A website and user system starter. Implemented with Express and Backbone.
