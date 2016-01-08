@@ -21,6 +21,12 @@ We are hoping to learn how to setup a community based event website using the Dr
 * Details Page & Adding Events
 * Edit & Delete Events
 
+###### Section - MongoLab & Drywall Setup
+
+Based on the instruction I followed, I was instructed to copy the repo from Drywall. The proper thing to do was to probably fork the repo and work from there. Despite that, I changed the remote on my branch to point to this repo rather than the Drywall repo.
+
+Most difficult item in the setup of MongoLab and Drywall was the integration of gmail. You will have to go into your gmail account and start allowing two-step verification. This should completely solve any issues if you are unable to receive the e-mail when submitting the Forget Password form.
+
 ##### Credits:
 
 ###### [Drywall](http://jedireza.github.io/drywall/)
